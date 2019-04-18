@@ -1,0 +1,16 @@
+{
+    "name": "geeklearners/australia-taxrate",
+    "description": "Package to calculate taxable amount on income of users weekly, fortnightly, monthly or yearly",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Niraula",
+            "email": "rahul.niraula7@live.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
