@@ -1,5 +1,5 @@
 {
-    "name": "geeklearners/australia-taxrate",
+    "name": "rahulniraula/australia-taxrate",
     "description": "Package to calculate taxable amount on income of users weekly, fortnightly, monthly or yearly",
     "type": "library",
     "license": "MIT",
